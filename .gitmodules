@@ -71,3 +71,8 @@
 	path = humanytek-team/product_supply
 	url = git@github.com:humanytek-team/product_supply.git
 	branch = 12.0
+
+[submodule "humanytek-team/sale_brand"]
+	path = humanytek-team/sale_brand
+	url = git@github.com:humanytek-team/sale_brand.git
+	branch = 12.0
