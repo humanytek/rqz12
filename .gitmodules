@@ -21,3 +21,8 @@
 	path = GustavoRequiez/incoming_products_kardex
 	url = git@github.com:GustavoRequiez/incoming_products_kardex.git
 	branch = master
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 12.0
