@@ -26,3 +26,8 @@
 	path = OCA/product-attribute
 	url = git@github.com:OCA/product-attribute.git
 	branch = 12.0
+
+[submodule "GustavoRequiez/product_classification"]
+	path = GustavoRequiez/product_classification
+	url = git@github.com:GustavoRequiez/product_classification.git
+	branch = master
