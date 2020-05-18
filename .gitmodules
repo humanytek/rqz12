@@ -51,3 +51,8 @@
 	path = GustavoRequiez/remove_attachemnts_invoice
 	url = git@github.com:GustavoRequiez/remove_attachemnts_invoice.git
 	branch = master
+
+[submodule "humanytek-team/mrp_sale_info"]
+	path = humanytek-team/mrp_sale_info
+	url = git@github.com:humanytek-team/mrp_sale_info.git
+	branch = 12.0
