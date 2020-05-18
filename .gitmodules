@@ -41,3 +41,8 @@
 	path = GustavoRequiez/value_merchandise_sent
 	url = git@github.com:GustavoRequiez/value_merchandise_sent.git
 	branch = master
+
+[submodule "OCA/stock-logistics-workflow"]
+	path = OCA/stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 12.0
