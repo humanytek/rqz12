@@ -11,3 +11,8 @@
 	path = GustavoRequiez/delivery_slip_rqz
 	url = git@github.com:GustavoRequiez/delivery_slip_rqz.git
 	branch = master
+
+[submodule "GustavoRequiez/measurement_processes_production"]
+	path = GustavoRequiez/measurement_processes_production
+	url = git@github.com:GustavoRequiez/measurement_processes_production.git
+	branch = master
