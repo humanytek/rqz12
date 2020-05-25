@@ -106,3 +106,8 @@
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 12.0
+
+[submodule "GustavoRequiez/fix_error_views_mig"]
+	path = GustavoRequiez/fix_error_views_mig
+	url = git@github.com:GustavoRequiez/fix_error_views_mig.git
+	branch = master
