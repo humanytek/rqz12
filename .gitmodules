@@ -81,3 +81,8 @@
 	path = humanytek-team/product_compromise
 	url = git@github.com:humanytek-team/product_compromise.git
 	branch = 12.0
+
+[submodule "humanytek-team/mrp_ii"]
+	path = humanytek-team/mrp_ii
+	url = git@github.com:humanytek-team/mrp_ii.git
+	branch = 12.0
