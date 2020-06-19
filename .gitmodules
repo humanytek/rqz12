@@ -46,3 +46,8 @@
 	path = GustavoRequiez/stock_no_negative
 	url = git@github.com:GustavoRequiez/stock_no_negative.git
 	branch = master
+
+[submodule "GustavoRequiez/remove_attachemnts_invoice"]
+	path = GustavoRequiez/remove_attachemnts_invoice
+	url = git@github.com:GustavoRequiez/remove_attachemnts_invoice.git
+	branch = master
