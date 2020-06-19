@@ -41,3 +41,8 @@
 	path = GustavoRequiez/value_merchandise_sent
 	url = git@github.com:GustavoRequiez/value_merchandise_sent.git
 	branch = master
+
+[submodule "GustavoRequiez/stock_no_negative"]
+	path = GustavoRequiez/stock_no_negative
+	url = git@github.com:GustavoRequiez/stock_no_negative.git
+	branch = master
