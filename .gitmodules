@@ -101,3 +101,8 @@
 	path = GustavoRequiez/mass_editing
 	url = git@github.com:GustavoRequiez/mass_editing.git
 	branch = master
+
+[submodule "humanytek-team/requiez"]
+	path = humanytek-team/requiez
+	url = git@github.com:humanytek-team/requiez.git
+	branch = 12.0
