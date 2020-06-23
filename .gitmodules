@@ -51,3 +51,8 @@
 	path = GustavoRequiez/value_merchandise_sent
 	url = git@github.com:GustavoRequiez/value_merchandise_sent.git
 	branch = master
+
+[submodule "GustavoRequiez/remove_attachemnts_invoice"]
+	path = GustavoRequiez/remove_attachemnts_invoice
+	url = git@github.com:GustavoRequiez/remove_attachemnts_invoice.git
+	branch = master
