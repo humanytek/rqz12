@@ -36,3 +36,8 @@
 	path = GustavoRequiez/incoming_products_kardex
 	url = git@github.com:GustavoRequiez/incoming_products_kardex.git
 	branch = master
+
+[submodule "GustavoRequiez/product_classification"]
+	path = GustavoRequiez/product_classification
+	url = git@github.com:GustavoRequiez/product_classification.git
+	branch = master
