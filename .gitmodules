@@ -6,3 +6,8 @@
 	path = vendor-bills
 	url = git@git.vauxoo.com:vauxoo/vendor-bills.git
 	branch = 12.0
+
+[submodule "OCA/openupgradelib"]
+	path = OCA/openupgradelib
+	url = git@github.com:OCA/openupgradelib.git
+	branch = master
