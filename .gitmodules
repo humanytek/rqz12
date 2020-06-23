@@ -31,3 +31,8 @@
 	path = GustavoRequiez/measurement_processes_production
 	url = git@github.com:GustavoRequiez/measurement_processes_production.git
 	branch = master
+
+[submodule "GustavoRequiez/incoming_products_kardex"]
+	path = GustavoRequiez/incoming_products_kardex
+	url = git@github.com:GustavoRequiez/incoming_products_kardex.git
+	branch = master
