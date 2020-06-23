@@ -91,3 +91,8 @@
 	path = humanytek-team/mrp_ii
 	url = git@github.com:humanytek-team/mrp_ii.git
 	branch = 12.0
+
+[submodule "humanytek-team/sale_commission"]
+	path = humanytek-team/sale_commission
+	url = git@github.com:humanytek-team/sale_commission.git
+	branch = 12.0
