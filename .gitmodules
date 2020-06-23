@@ -26,3 +26,8 @@
 	path = OCA/server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 12.0
+
+[submodule "GustavoRequiez/measurement_processes_production"]
+	path = GustavoRequiez/measurement_processes_production
+	url = git@github.com:GustavoRequiez/measurement_processes_production.git
+	branch = master
