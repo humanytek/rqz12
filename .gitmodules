@@ -46,3 +46,8 @@
 	path = GustavoRequiez/revenue_history_projection
 	url = git@github.com:GustavoRequiez/revenue_history_projection.git
 	branch = master
+
+[submodule "GustavoRequiez/value_merchandise_sent"]
+	path = GustavoRequiez/value_merchandise_sent
+	url = git@github.com:GustavoRequiez/value_merchandise_sent.git
+	branch = master
