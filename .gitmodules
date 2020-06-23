@@ -61,3 +61,8 @@
 	path = humanytek-team/mrp_sale_info
 	url = git@github.com:humanytek-team/mrp_sale_info.git
 	branch = 12.0
+
+[submodule "humanytek-team/stock_kardex"]
+	path = humanytek-team/stock_kardex
+	url = git@github.com:humanytek-team/stock_kardex.git
+	branch = 12.0
